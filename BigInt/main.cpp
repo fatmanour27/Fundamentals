@@ -79,9 +79,9 @@ int main()
 
             cout << "Result: " << result << endl;
             cout << "Enter -1 to exit or any other number to continue: ";
-            string exitCheck;
-            cin >> exitCheck;
-            if (exitCheck == "-1")  // Exit condition after calculation
+            string exit;
+            cin >> exit;
+            if (exit == "-1")  // Exit condition after calculation
                 break;
         }
     }
