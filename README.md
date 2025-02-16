@@ -1,1 +1,1 @@
-# Course Fundamentals with constructor Mohamed Moshrif
+# Fundamentals course with constructor Mohammed Moshrif
